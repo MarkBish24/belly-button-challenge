@@ -11,8 +11,12 @@ This Assignment samples and Graphs multiple different people's belly button bact
 ## Subject-Info
 The MetaData table includes all the information regarding the selected subject, such as ethnicity, gender, age, and location to help infer if there is a correlation in any category.
 
+![Alt Text](./images-charts/bacteria-meta-data.png)
+
 ## Bar-Graph
 The bar graph shows this particular subjects 10 highest bacteria level count and sorts them based on the bacteria's ID
+![Alt Text](./images-charts/top-10-bacteria.png)
 
 ## Bubble-Chart
 The Bubble Chart shows the Quantity of all bacteria in each subject organized left to right by the bacteria's ID.
+![Alt Text](./images-charts/bubble-chart.png)
